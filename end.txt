@@ -1,2 +1,0 @@
-When enemy comes from north, You should shoot north, and run south.
-When enemy comes from south, You should shoot south, and run north.
