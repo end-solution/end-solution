@@ -1,8 +1,8 @@
 #coding=utf-8
 import openai
 import os
-os.environ["OPENAI_API_KEY"] = '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'
-openai.api_key = "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"
+os.environ["OPENAI_API_KEY"] = 'Your openai key'
+openai.api_key = "Your openai key"
 
 from langchain.document_loaders import UnstructuredFileLoader
 #from langchain.loaders import UnstructuredFileLoader
