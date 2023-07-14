@@ -6,9 +6,7 @@ T5+langchain
 OpenAI+langchain
 
 [PoC Data]:
-ubuntu@ubuntu:~/kbqa$ cat end_shooting_scene.txt 
-When enemy comes from north, You should shoot north, and run south.
-When enemy comes from south, You should shoot south, and run north.
+Scene related doc: end_shooting_scene.txt 
 
 [PoC Context]:
 ubuntu@ubuntu:~/kbqa$ cat end_shooting_scene.txt 
