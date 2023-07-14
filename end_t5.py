@@ -24,7 +24,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter, CharacterTex
 from langchain import OpenAI
 
 
-loader = UnstructuredFileLoader("./end.txt")
+loader = UnstructuredFileLoader("./end_shooting_scene.txt")
 document = loader.load()
 print(f'documents:{len(document)}')
 
